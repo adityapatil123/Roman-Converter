@@ -115,8 +115,8 @@ and much more...
     }
  ```
  Here, we are looping through string one character at a time and also saving previous chracter's value in **prevNum**
- -Make checking at every iteration whether to add or subtract the value.
- -Finally, print the result as **arabicNum**
- -Check for different case and make the according changes.
+ - Make checking at every iteration whether to add or subtract the value.
+ - Finally, print the result as **arabicNum**
+ - Check for different case and make the according changes.
 
 
